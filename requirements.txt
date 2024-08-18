@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-openai
+langchain-community
+langsmith
+pypdf
+docx2txt
+faiss-cpu
+tiktoken
+arxiv
+wikipedia
